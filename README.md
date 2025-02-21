@@ -27,9 +27,7 @@ https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classif
 
 ### Training and Recommendations
 
-- Training Notebook: https://drive.google.com/file/d/1VaO11fxIl262rfSwtsvBOXP8wlhnE12n/view?usp=share_link
-- Recommendation Notebook: https://drive.google.com/file/d/1q-u6jvyTLO0WuXmDJuXhKk1SMlh0EVYv/view?usp=sharing 
-
+- 
 ### Flask App
 
 
